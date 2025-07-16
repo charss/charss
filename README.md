@@ -40,7 +40,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
-<h4>🔭 I am currently working on:</h4>
+#### 🔭 I am currently working on:
 1. An offline-first money management mobile app with friends feature.
 2. Linux home server
 

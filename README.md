@@ -13,6 +13,10 @@
   <img alt="React" src="https://img.shields.io/badge/-React Native-61A1FB?style=flat&logo=react&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJS-1A1A1A?style=flat&logo=next.js&logoColor=white" />
 
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-3BABC3?style=flat&logo=flask&logoColor=white" />
+
+
   <img alt="Drizzle" src="https://img.shields.io/badge/-Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black" />
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white" />
@@ -24,8 +28,9 @@
   <img alt="git" src="https://img.shields.io/badge/-git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  
+  <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white" />
 
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
